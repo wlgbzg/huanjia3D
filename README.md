@@ -3,7 +3,7 @@
 ### 基于Vue.js和TypeScript的高效2D户型图编辑器实现
 
 在现代室内设计工具中，一个高效且直观的2D户型图编辑器是核心组件之一。本文将深入探讨我们如何利用Vue.js和TypeScript构建一个功能强大的2D编辑器，为用户提供流畅的设计体验。
-<img src="https://github.com/wlgbzg/huanjia3D/blob/main/123.png" alt="户型图编辑器界面" width="500">
+<img src="https://github.com/wlgbzg/huanjia3D/blob/main/未命名的设计.png" alt="户型图编辑器界面" width="500">
 
 #### 技术选型：Vue.js与TypeScript的完美结合
 
@@ -28,3 +28,4 @@
 使用Vuex进行全局状态管理，确保2D编辑器的状态在不同组件间保持同步。能够高效地将设计数据保存到服务器，并在需要时进行恢复。
 
 成功构建了一个功能丰富、性能优异的2D户型图编辑器。它不仅提供了直观的用户界面，还具备强大的编辑功能，为后续的3D展示和VR漫游奠定了坚实的基础。交流 v: wlgbzg 
+<img src="https://github.com/wlgbzg/huanjia3D/blob/main/123.png" alt="户型图编辑器界面" width="500">
