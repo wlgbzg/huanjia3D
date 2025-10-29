@@ -3,6 +3,7 @@
 ### 基于Vue.js和TypeScript的高效2D户型图编辑器实现
 
 在现代室内设计工具中，一个高效且直观的2D户型图编辑器是核心组件之一。本文将深入探讨我们如何利用Vue.js和TypeScript构建一个功能强大的2D编辑器，为用户提供流畅的设计体验。
+<img src="https://github.com/wlgbzg/huanjia3D/blob/main/123.png" alt="户型图编辑器界面" width="500">
 
 #### 技术选型：Vue.js与TypeScript的完美结合
 
